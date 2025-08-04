@@ -94,4 +94,5 @@ match tabela:
     case _:
         print("Opção inválida")
 
-#Rover&Nicolas
+
+#Rover, Nicolas, Kojima
